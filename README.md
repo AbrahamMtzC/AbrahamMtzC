@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate as a web developer (full stack), videogame developement, mobile app developement.
 
-- 📫 How to reach me: @DeimosExe on twitter
+- 📫 How to reach me: @DeimosExe on Twitter or @Deimso.PNG on Instagram
 
 <!---
 AbrahamMtzC/AbrahamMtzC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
